@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.movies-homepage { display: inline-block;}
+
+.movies { display: inline-block;
+          margin-top: 5vh;
+          margin: 5vh;  }
+
+.movie-details { text-align: center; }     
+
+.movie-details-img { display: inline-block; 
+                     margin: 5vh;   }
+
+.movie-details-detail { display: inline-block; margin: 5vh; height: 5cm; width: 7cm; text-align: left; vertical-align: top;}
